@@ -1,22 +1,12 @@
 <h1 align="center">Modelagem de Sistemas Dinâmicos (2023)</h1>
 
-<p align="center">🚀 Projeto em Desenvolvimento </p>
-
 Trata-se do repositório voltado para organizar os códigos desenvolvidos ao longo da disciplina, bem como os exercícios e as etapas intermediárias do projeto final, que corresponde à modelagem de um sistema complexo qualquer no domínio do tempo. 
 
-<p align="center">
- <a href="#objetivo">Objetivo</a> •
- <a href="#roadmap">Roadmap</a> • 
- <a href="#tecnologias">Tecnologias</a> • 
- <a href="#contribuicao">Contribuição</a> • 
- <a href="#licenc-a">Licença</a> 
-</p>
-
 <h4 align="center"> 
-	🚧  🚀 Em construção...  🚧
+	🚧  Em desenvolvimento...  🚧
 </h4>
 
-### Pré-requisitos
+### 📝 Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas: [Git](https://git-scm.com).  Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
@@ -37,7 +27,7 @@ $ git clone https://github.com/lucascarvalho10/pme3380
 
 Todos os exercícios serão resolvidos e salvos todos neste repositório na sua pasta específica. 
 
-### 🚀 Ideia Geral
+### 🚀 Trabalho Final
 
 Modelagem do Sistema ...
 
