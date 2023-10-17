@@ -20,21 +20,24 @@ Trata-se do repositório voltado para organizar os códigos desenvolvidos ao lon
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas: [Git](https://git-scm.com).  Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
-### 🛰️ Rodando a Aplicação (MatLab)
+### 🍁 Rodando as Aplicações
 
 ```bash
 # Clone este repositório
-$ git clone <https://github.com/lucascarvalho10/pme3380
+$ git clone https://github.com/lucascarvalho10/pme3380
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd project
 
 # Instale as dependências
 
 # Execute a aplicação em modo de desenvolvimento
 ```
 
-### 💡 Ideia Geral
+### ✏️ Exercícios 
+
+Todos os exercícios serão resolvidos e salvos todos neste repositório na sua pasta específica. 
+
+### 🚀 Ideia Geral
 
 Modelagem do Sistema ...
 
