@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img alt="IC" title="#pme3380-2023" src="./trab_pme3380.jpg" />
+</h1>
+
 <h1 align="center">Modelagem de Sistemas Dinâmicos (2023)</h1>
 
 Trata-se do repositório voltado para organizar os códigos desenvolvidos ao longo da disciplina, bem como os exercícios e as etapas intermediárias do projeto final, que corresponde à modelagem de um sistema complexo qualquer no domínio do tempo. 
