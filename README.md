@@ -22,9 +22,16 @@ $ git clone https://github.com/lucascarvalho10/pme3380
 
 # Acesse a pasta do projeto no terminal/cmd
 
-# Instale as dependências
+# Execute a aplicação
+```
 
-# Execute a aplicação em modo de desenvolvimento
+```bash
+# instale as dependências
+
+$ py -m pip install sympy
+$ py -m pip install scipy
+$ py -m pip install control
+$ py -m pip install tbcontrol
 ```
 
 ### ✏️ Exercícios
